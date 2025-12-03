@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "フィクション",
+  "base_artist": "sumika",
+  "createdAt": "2025-12-03T06:38:28.946650Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フィクション",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/01_フィクション_sumika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フィクション",
+      "artist": "Sukimaswitch",
+      "has_synced": false,
+      "path": "select/02_フィクション_Sukimaswitch.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "フィクション",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/03_フィクション_sumika.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フィクション",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/04_フィクション_sumika.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フィクション ((Remastered 2018))",
+      "artist": "井上陽水",
+      "has_synced": false,
+      "path": "select/05_フィクション_((Remastered_2018))_井上陽水.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フィクション",
+      "artist": "井上陽水",
+      "has_synced": false,
+      "path": "select/06_フィクション_井上陽水.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "フィクション",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/07_フィクション_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "フィクション",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/08_フィクション_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "フィクション - Fiction",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/09_フィクション_-_Fiction_sumika.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "フィクション - Fiction",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/10_フィクション_-_Fiction_sumika.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "フィクション",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/11_フィクション_sumika.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "フィクション",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/12_フィクション_sumika.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "フィクション",
+      "artist": "mitsume",
+      "has_synced": true,
+      "path": "select/13_フィクション_mitsume.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "sumika / フィクション【Music Video】",
+      "artist": "sumikainc",
+      "has_synced": true,
+      "path": "select/14_sumika___フィクション【Music_Video】_sumikainc.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "フィクション - Fiction",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/15_フィクション_-_Fiction_sumika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フィクション",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/pl_01_フィクション_sumika.txt"
+    }
+  ]
+}
